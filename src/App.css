@@ -1,0 +1,17 @@
+
+.flexStyle {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.flexStyleTable {
+  flex-grow: 1;
+  margin-left: 20px;
+}
+
+.flexStyleForm {
+  margin-top: 50px;
+  flex-basis:100%;
+}
+
